@@ -1,0 +1,6 @@
+{
+  "name": "Duty Planner ERP",
+  "description": "Role-based duty roster planning and distribution ERP with Google Drive integration, Supabase Auth, and AI schedule generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
